@@ -1,1 +1,1 @@
-calculator app trying first time
+calculator app trying first time in Motoko Playground for IC
