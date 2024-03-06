@@ -1,5 +1,5 @@
 //https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=1295363464
-//calculator
+//calculator app
 //variables (let -> immutable, var -> mutable)
 
 //canister => akıllı sözleşme
